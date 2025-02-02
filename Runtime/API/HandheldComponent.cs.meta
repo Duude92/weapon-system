@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5ccfa22ee05cffc4db7ec2a0f1ad9a81
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - <LeftHandTransform>k__BackingField: {instanceID: 0}
+  - <RightHandTransform>k__BackingField: {instanceID: 0}
+  - <AdditionalComponent>k__BackingField: {instanceID: 0}
+  - <AnimatorOverrideController>k__BackingField: {fileID: 22100000, guid: 54307a431d4cc764fa49aac142721d4b,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
